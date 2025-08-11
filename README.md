@@ -16,3 +16,5 @@ Telegram uchun kitob do‘koni bot – foydalanuvchilarga janrlar bo‘yicha kit
    ```bash
    git clone https://github.com/yourusername/bookstore-bot.git
    cd bookstore-bot
+
+2. Bot username: @book_store_501_bot
